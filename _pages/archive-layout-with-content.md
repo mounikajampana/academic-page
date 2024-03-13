@@ -34,7 +34,11 @@ Single line blockquote:
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| cell1   | cell2   | cell3   |- title: "Notes"
+  #   url: "https://deepgenerativemodels.github.io/notes/index.html"
+
+  # - title: "Categories"
+  #   url: /categories/
 | cell4   | cell5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
